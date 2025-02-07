@@ -4,17 +4,12 @@ A simple and efficient To-Do List App built with JavaScript, HTML, and CSS.
 
 ✨ Features:
 
-✅ Add new tasks
-
-✅ Edit existing tasks
-
-✅ Mark tasks as completed
-
-✅ Filter tasks (All, Active, Completed)
-
-✅ Remove individual tasks or clear all tasks
-
-✅ Local storage support for saving tasks
+✅ Add new tasks</br>
+✅ Edit existing tasks</br>
+✅ Mark tasks as completed</br>
+✅ Filter tasks (All, Active, Completed)</br>
+✅ Remove individual tasks or clear all tasks</br>
+✅ Local storage support for saving tasks</br>
 
 🔹 Built with vanilla JavaScript and responsive design for a smooth user experience! 🚀
 
